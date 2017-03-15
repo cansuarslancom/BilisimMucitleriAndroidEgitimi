@@ -1,4 +1,4 @@
-# Bilisim_Mucitleri_Temel_Java_ve_Android_Egitimi
+# Bilisim Mucitleri, Temel Java ve Android Egitimi
 # Ders 1 İçeriği (9 Mart 2017)
   a. JDK ,Eclipse ,Android Studio, Genymotion Kurulumu
   
