@@ -14,3 +14,14 @@
   d. Class, Getter-Setter, Constructor ve Nesne kavramı 
   
   e. Uygulama
+  
+  # Ders 3 İçeriği (16 Mart 2017)
+  a. static - final değişkenler uygulamalı farkları
+  
+  b. static metotlar uygulamalı
+  
+  c. ArrayList<> Tanımlama ve List fonksiyonları
+  
+  d. Kalıtım 
+  
+  e. Uygulama 1 , Uygulama 2
