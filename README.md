@@ -25,3 +25,13 @@
   d. Kalıtım 
   
   e. Uygulama 1 , Uygulama 2
+  
+  # Ders 4 İçeriği (21 Mart 2017)
+  Bu ders konserden dolayı yapılmadı.
+  
+  # Ders 5 İçeriği (23 Mart 2017)
+  a. Android'e Giriş
+  
+  b. Toast
+  
+  c. Uygulamalar
